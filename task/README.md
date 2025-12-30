@@ -1,4 +1,4 @@
-# Lyftr AI - Universal Website Scraper
+# Universal Website Scraper
 
 A full-stack web scraping application that extracts structured content from websites, handling both static HTML and JavaScript-rendered content.
 
@@ -159,4 +159,5 @@ The following URLs were used for testing:
 ## License
 
 This project is created for the Lyftr AI full-stack assignment.
+
 
